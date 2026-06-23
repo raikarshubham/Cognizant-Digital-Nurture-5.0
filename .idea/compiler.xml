@@ -6,9 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="JUnit_Exercise4" />
+        <module name="Mockito_Exercise1" />
+        <module name="Mockito_Exercise2" />
         <module name="JUnitSetup_Exercise1" />
+        <module name="JUnit_Exercise4" />
         <module name="JUnit_Exercise3" />
+        <module name="SLF4J_Exercise1" />
       </profile>
     </annotationProcessing>
   </component>
