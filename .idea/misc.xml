@@ -10,10 +10,15 @@
         <option value="$PROJECT_DIR$/Mockito_Exercise1/pom.xml" />
         <option value="$PROJECT_DIR$/Mockito_Exercise2/pom.xml" />
         <option value="$PROJECT_DIR$/SLF4J_Exercise1/pom.xml" />
+        <option value="$PROJECT_DIR$/LibraryManagement/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringCoreMaven_Ex1/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringCoreMaven_Exer1/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringCoreMaven_Exer2/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringCoreMaven_Ex4/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_X" default="true" project-jdk-name="25" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
