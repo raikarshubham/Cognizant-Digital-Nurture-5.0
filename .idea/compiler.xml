@@ -20,6 +20,7 @@
     <bytecodeTargetLevel>
       <module name="LibraryManagement" target="1.8" />
       <module name="SpringCoreMaven_Ex1" target="1.8" />
+      <module name="SpringDataJPA_HandsOn1" target="25" />
     </bytecodeTargetLevel>
   </component>
 </project>
