@@ -16,6 +16,9 @@
         <option value="$PROJECT_DIR$/SpringCoreMaven_Exer2/pom.xml" />
         <option value="$PROJECT_DIR$/SpringCoreMaven_Ex4/pom.xml" />
         <option value="$PROJECT_DIR$/SpringDataJPA_HandsOn1/pom.xml" />
+        <option value="$PROJECT_DIR$/microservices/account/pom.xml" />
+        <option value="$PROJECT_DIR$/microservices/loan/pom.xml" />
+        <option value="$PROJECT_DIR$/microservices/eureka-discovery-server/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

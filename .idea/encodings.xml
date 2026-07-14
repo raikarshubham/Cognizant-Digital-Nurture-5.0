@@ -5,5 +5,8 @@
     <file url="file://$PROJECT_DIR$/SpringCoreMaven_Ex4/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/SpringDataJPA_HandsOn1/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/SpringDataJPA_HandsOn1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservices/account/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservices/eureka-discovery-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservices/loan/src/main/java" charset="UTF-8" />
   </component>
 </project>

@@ -6,14 +6,17 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="loan" />
         <module name="JUnit_Exercise4" />
         <module name="JUnit_Exercise3" />
+        <module name="eureka-discovery-server" />
         <module name="Mockito_Exercise1" />
         <module name="Mockito_Exercise2" />
         <module name="JUnitSetup_Exercise1" />
         <module name="SpringCoreMaven_Ex4" />
         <module name="SpringCoreMaven_Exer1" />
         <module name="SpringCoreMaven_Exer1 (1)" />
+        <module name="account" />
         <module name="SLF4J_Exercise1" />
       </profile>
     </annotationProcessing>
@@ -22,5 +25,12 @@
       <module name="SpringCoreMaven_Ex1" target="1.8" />
       <module name="SpringDataJPA_HandsOn1" target="25" />
     </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="account" options="-parameters" />
+      <module name="eureka-discovery-server" options="-parameters" />
+      <module name="loan" options="-parameters" />
+    </option>
   </component>
 </project>
