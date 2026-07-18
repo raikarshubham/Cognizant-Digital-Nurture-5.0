@@ -1,0 +1,6 @@
+@for (course of courses; track course.code) {
+  <app-course-card
+    [course]="course"
+    (enrollRequested)="onEnroll($event)">
+  </app-course-card>
+}
